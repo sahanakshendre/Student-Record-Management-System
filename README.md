@@ -14,9 +14,6 @@ The program is menu-driven and runs continuously until the user chooses to exit.
 
 
 
-
-
-
 ## 🚀 Features
 
 
@@ -46,10 +43,6 @@ The program is menu-driven and runs continuously until the user chooses to exit.
 - Display grade distribution
 
 - Permanent data storage using file handling
-
-
-
-
 
 
 
@@ -86,70 +79,6 @@ The program is menu-driven and runs continuously until the user chooses to exit.
 
 
 
-
-
-
-
-## 🚀 Features
-
-
-
-### ✅ Core Functionalities
-
-- Add a new student
-
-- View all students
-
-- Search student by Roll Number
-
-- Display class statistics
-
-- Exit program
-
-
-
-### ⭐ Bonus Features
-
-- Prevent duplicate Roll Numbers
-
-- Update student marks
-
-- Sort students by total marks
-
-- Display grade distribution
-
-- Permanent data storage using file handling
-
-
-
-
-
-
-## 🛠 Technologies Used
-
-
-
-- Python 3.10
-
-- Lists
-
-- Dictionaries
-
-- Loops (while, for)
-
-- Functions
-
-- Conditional Statements
-
-- File Handling (JSON format inside .txt file)
-
-
-
-
-
-
-
-
 ## 📊 Grading Criteria
 
 
@@ -171,8 +100,6 @@ Grades are assigned based on average marks:
 | 50 – 59       | D      |
 
 | Below 50      | F      |
-
-
 
 
 
@@ -217,22 +144,6 @@ The file uses JSON format to store data as a list of dictionaries.
 
 5. Use the menu options to perform operations.
 
-
-
-
-## 🧠 Concepts Covered
-
-
-
-- Data Structures (List of Dictionaries)
-
-- Searching and Sorting
-
-- File Handling
-
-- Modular Programming using Functions
-
-- Menu-driven program using while loop
 
 
 
