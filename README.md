@@ -1,8 +1,8 @@
-\# 🎓 Student Record Management System (Console-Based Python Application)
+# 🎓 Student Record Management System (Console-Based Python Application)
 
 
 
-\## 📌 Project Description
+# 📌 Project Description
 
 
 
@@ -18,7 +18,7 @@ The program is menu-driven and runs continuously until the user chooses to exit.
 
 
 
-\## 🚀 Features
+## 🚀 Features
 
 
 
