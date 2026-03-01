@@ -1,8 +1,3 @@
-# ============================================================
-# Student Record Management System
-# Console-Based Python Application
-# With Bonus Features & File Handling
-# ============================================================
 
 import json
 
