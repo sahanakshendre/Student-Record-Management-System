@@ -16,6 +16,7 @@ The program is menu-driven and runs continuously until the user chooses to exit.
 
 
 
+
 ## 🚀 Features
 
 
@@ -57,8 +58,11 @@ The program is menu-driven and runs continuously until the user chooses to exit.
 
 
 - Python 3.10
+
 - JSON (for data storage format)
+
 - Git (version control)
+
 - GitHub (repository hosting)
 
 
@@ -66,12 +70,83 @@ The program is menu-driven and runs continuously until the user chooses to exit.
 ## 🧠 Concepts Implemented 
 
 - Lists
+
 - Dictionaries
+
 - Functions
+
 - Loops (while, for)
+
 - Conditional Statements
+
 - File Handling
+
 - Sorting Techniques
+
+
+
+
+
+
+
+
+## 🚀 Features
+
+
+
+### ✅ Core Functionalities
+
+- Add a new student
+
+- View all students
+
+- Search student by Roll Number
+
+- Display class statistics
+
+- Exit program
+
+
+
+### ⭐ Bonus Features
+
+- Prevent duplicate Roll Numbers
+
+- Update student marks
+
+- Sort students by total marks
+
+- Display grade distribution
+
+- Permanent data storage using file handling
+
+
+
+
+
+
+## 🛠 Technologies Used
+
+
+
+- Python 3.10
+
+- Lists
+
+- Dictionaries
+
+- Loops (while, for)
+
+- Functions
+
+- Conditional Statements
+
+- File Handling (JSON format inside .txt file)
+
+
+
+
+
 
 
 
@@ -137,14 +212,10 @@ The file uses JSON format to store data as a list of dictionaries.
 4. Run the command:
 
 
-
    python student_record_system.py
 
 
-
 5. Use the menu options to perform operations.
-
-
 
 
 
@@ -166,8 +237,6 @@ The file uses JSON format to store data as a list of dictionaries.
 
 
 
-
-
 ## 📌 Conclusion
 
 
@@ -175,8 +244,6 @@ The file uses JSON format to store data as a list of dictionaries.
 This project demonstrates how Python can be used to build a simple yet powerful data management system.  
 
 It covers fundamental programming concepts and includes additional features for enhanced functionality.
-
-
 
 
 
