@@ -1,0 +1,21 @@
+
+The Student Record Management System is a console-based application developed using Python. The main objective of this project is to manage student academic records in a simple and organized way. The program is menu-driven and runs continuously using a while loop until the user selects the exit option.
+
+Student data is stored using a list of dictionaries. Each dictionary represents one student and contains details such as name, roll number, marks in five subjects, total marks, average, and grade. This structure makes it easy to add, search, update, and manage multiple student records efficiently.
+
+Main Features:
+
+• Add a new student
+• View all student records
+• Search student by roll number
+• Update student marks
+• Sort students by total marks
+• Display class statistics (highest, lowest, average)
+• Show grade distribution
+• Prevent duplicate roll numbers
+
+Grades are calculated automatically based on average marks using conditional statements. For loops are used to search and display records, and built-in sorting methods are used to arrange students based on total marks. File handling is implemented using JSON format inside a text file to ensure permanent data storage even after the program is closed.
+
+This project demonstrates the practical use of Python concepts such as lists, dictionaries, loops, functions, conditionals, sorting, and file handling.
+
+AI was used only for minor guidance. All logic and implementation are my own.
