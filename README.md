@@ -134,9 +134,16 @@ The file uses JSON format to store data as a list of dictionaries.
 
 2. Open Command Prompt or Terminal.
 
+   Clone the repository
+
+   git clone https://github.com/sahanakshendre/Student-Record-Management-System.git
+
 3. Navigate to the project folder.
 
-4. Run the command:
+   cd Student-Record-Management-System
+
+
+4. Run the program
 
 
    python student_record_system.py
@@ -145,6 +152,32 @@ The file uses JSON format to store data as a list of dictionaries.
 5. Use the menu options to perform operations.
 
 
+
+## 📸 Screenshots
+
+### ➕ Add Student
+![Add Student](Screenshots/Add Student.png)
+
+### 🔍 Search Student
+![Search Student](Screenshots/Search Student.png)
+
+### 📋 View All Students
+![View All Students](Screenshots/View All Student.png)
+
+### 📝 Update Student Marks
+![Update Student Marks](Screenshots/Update Student Marks.png)
+
+### 📊 Class Statistics
+![Class Statistics](Screenshots/Class Statistics.png)
+
+### 📈 Grade Distribution
+![Grade Distribution](Screenshots/Grade Distribution.png)
+
+### 🔢 Sort Students by Total Marks
+![Sort Students by Total Marks](Screenshots/Sort Students by Total Marks.png)
+
+### ❌ Exit Program
+![Exit Program](Screenshots/Exit.png)
 
 
 
