@@ -156,29 +156,28 @@ The file uses JSON format to store data as a list of dictionaries.
 ## 📸 Screenshots
 
 ### ➕ Add Student
-![Add Student](Screenshots/Add Student.png)
+![Add Student](Screenshots/Add%20Student.png)
 
 ### 🔍 Search Student
-![Search Student](Screenshots/Search Student.png)
+![Search Student](Screenshots/Search%20Student.png)
 
 ### 📋 View All Students
-![View All Students](Screenshots/View All Student.png)
+![View All Students](Screenshots/View%20All%20Student.png)
 
 ### 📝 Update Student Marks
-![Update Student Marks](Screenshots/Update Student Marks.png)
+![Update Student Marks](Screenshots/Update%20Student%20Marks.png)
 
 ### 📊 Class Statistics
-![Class Statistics](Screenshots/Class Statistics.png)
+![Class Statistics](Screenshots/Class%20Statistics.png)
 
 ### 📈 Grade Distribution
-![Grade Distribution](Screenshots/Grade Distribution.png)
+![Grade Distribution](Screenshots/Grade%20Distribution.png)
 
 ### 🔢 Sort Students by Total Marks
-![Sort Students by Total Marks](Screenshots/Sort Students by Total Marks.png)
+![Sort Students by Total Marks](Screenshots/Sort%20Students%20by%20Total%20Marks.png)
 
 ### ❌ Exit Program
 ![Exit Program](Screenshots/Exit.png)
-
 
 
 ## 📌 Conclusion
