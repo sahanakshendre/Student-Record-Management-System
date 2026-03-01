@@ -1,8 +1,8 @@
-# 🎓 Student Record Management System (Console-Based Python Application)
+## 🎓 Student Record Management System (Console-Based Python Application)
 
 
 
-# 📌 Project Description
+## 📌 Project Description
 
 
 
@@ -14,7 +14,7 @@ The program is menu-driven and runs continuously until the user chooses to exit.
 
 
 
----
+
 
 
 
@@ -22,63 +22,62 @@ The program is menu-driven and runs continuously until the user chooses to exit.
 
 
 
-\### ✅ Core Functionalities
+### ✅ Core Functionalities
 
-\- Add a new student
+- Add a new student
 
-\- View all students
+- View all students
 
-\- Search student by Roll Number
+- Search student by Roll Number
 
-\- Display class statistics
+- Display class statistics
 
-\- Exit program
-
-
-
-\### ⭐ Bonus Features
-
-\- Prevent duplicate Roll Numbers
-
-\- Update student marks
-
-\- Sort students by total marks
-
-\- Display grade distribution
-
-\- Permanent data storage using file handling
+- Exit program
 
 
 
----
+### ⭐ Bonus Features
+
+- Prevent duplicate Roll Numbers
+
+- Update student marks
+
+- Sort students by total marks
+
+- Display grade distribution
+
+- Permanent data storage using file handling
 
 
 
-\## 🛠 Technologies Used
 
 
 
-\- Python 3.10
-
-\- Lists
-
-\- Dictionaries
-
-\- Loops (while, for)
-
-\- Functions
-
-\- Conditional Statements
-
-\- File Handling (JSON format inside .txt file)
+## 🛠 Technologies Used
 
 
 
----
+- Python 3.10
+
+- Lists
+
+- Dictionaries
+
+- Loops (while, for)
+
+- Functions
+
+- Conditional Statements
+
+- File Handling (JSON format inside .txt file)
 
 
 
-\## 📊 Grading Criteria
+
+
+
+
+## 📊 Grading Criteria
 
 
 
@@ -102,11 +101,11 @@ Grades are assigned based on average marks:
 
 
 
----
 
 
 
-\## 💾 Data Storage
+
+## 💾 Data Storage
 
 
 
@@ -124,57 +123,57 @@ The file uses JSON format to store data as a list of dictionaries.
 
 
 
----
 
 
 
-\## ▶️ How to Run the Program
+
+## ▶️ How to Run the Program
 
 
 
-1\. Make sure Python 3.10 or above is installed.
+1. Make sure Python 3.10 or above is installed.
 
-2\. Open Command Prompt or Terminal.
+2. Open Command Prompt or Terminal.
 
-3\. Navigate to the project folder.
+3. Navigate to the project folder.
 
-4\. Run the command:
-
-
-
-&nbsp;  python student\_record\_system.py
+4. Run the command:
 
 
 
-5\. Use the menu options to perform operations.
+python student\_record\_system.py
 
 
 
----
+5. Use the menu options to perform operations.
 
 
 
-\## 🧠 Concepts Covered
 
 
 
-\- Data Structures (List of Dictionaries)
 
-\- Searching and Sorting
-
-\- File Handling
-
-\- Modular Programming using Functions
-
-\- Menu-driven program using while loop
+## 🧠 Concepts Covered
 
 
 
----
+- Data Structures (List of Dictionaries)
+
+- Searching and Sorting
+
+- File Handling
+
+- Modular Programming using Functions
+
+- Menu-driven program using while loop
 
 
 
-\## 📌 Conclusion
+
+
+
+
+## 📌 Conclusion
 
 
 
@@ -184,11 +183,11 @@ It covers fundamental programming concepts and includes additional features for 
 
 
 
----
 
 
 
-\## 👨‍💻 Author
+
+## 👨‍💻 Author
 
 
 
